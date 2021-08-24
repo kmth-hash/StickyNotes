@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+        {
+            "name": "stickynotes (Flutter)",
+            "program": "lib/main.dart",
+            "cwd": "stickynotes",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
